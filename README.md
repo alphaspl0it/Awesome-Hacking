@@ -4,6 +4,10 @@
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
+Adding additional tools and add ons. 
+Seeking new Twitter. 
+Coming back to update. 
+
 Your [contributions](contributing.md) are always welcome !
 
 ## Awesome Repositories
